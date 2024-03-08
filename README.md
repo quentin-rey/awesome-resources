@@ -4,10 +4,9 @@ This repository is currently under construction and will be updated regularly th
 
 ## Table of Contents
 
-- [Awesome Resources](#awesome-resources)
-  - [Table of Contents](#table-of-contents)
-  - [Learning](#learning)
-  - [Fonts](#fonts)
+<!-- no toc -->
+- [Learning](#learning)
+- [Fonts](#fonts)
 
 ## Learning
 
